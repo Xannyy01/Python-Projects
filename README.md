@@ -74,8 +74,8 @@ python main.py
 
 ## 🎨 User Interface Preview
 
-![Home Screen](https://github.com/yourusername/python-projects/blob/main/screenshots/home.png?raw=true)
-![Mood Detection](https://github.com/yourusername/python-projects/blob/main/screenshots/mood_detection.png?raw=true)
+![Home Screen](https://github.com/Xannyy01/Python-Projects/blob/main/vlcsnap-2025-03-23-15h12m46s946.png?raw=true)
+![Mood Detection](https://github.com/Xannyy01/Python-Projects/blob/main/vlcsnap-2025-03-23-15h13m15s832.png?raw=true)
 
 
 
