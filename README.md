@@ -72,6 +72,12 @@ python main.py
 🖥️ A dark-themed modern GUI with smooth animations and Spotify integration!
 
 
+## 🎨 User Interface Preview
+
+![Home Screen](https://github.com/yourusername/python-projects/blob/main/screenshots/home.png?raw=true)
+![Mood Detection](https://github.com/yourusername/python-projects/blob/main/screenshots/mood_detection.png?raw=true)
+
+
 
 🤝 Contributing
 
